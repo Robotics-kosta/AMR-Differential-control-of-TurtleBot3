@@ -1,4 +1,4 @@
-# DiFFERENTIAL CONTROL OF TURTLEBOT3 (AUTONOMOUS MOBILE ROBOTS)
+# DIFFERENTIAL CONTROL OF TURTLEBOT3 (AUTONOMOUS MOBILE ROBOTS)
 
 ### Implementation of kinematic control to a robot with differential drive.
 
